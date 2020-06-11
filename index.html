@@ -1,0 +1,126 @@
+---
+layout: null
+title: honest2davis
+description: honest2davis | Hip Hop &amp; R&amp;B Beats and Instrumentals
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<!--
+
+If you're a beat maker looking at the source code, hit me up so I can show you how I used a static site generator to create my website for free!
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+            <h1>{{site.title}}</h1>
+						<h2>High Quality Instrumentals for Serious Artist and Creators</h2>
+						<p>License a Beat in three easy steps</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#"></a>Bulk deals available</h2>
+									<p>
+                                        <b>Regular</b> Buy 2 Get 1 FREE<br />
+                                        <b>Premium</b> Buy 1 Get 2 FREE<br /> 
+                                        <b>Unlimited</b> Buy 1 Get 2 FREE<br />
+                                    </p>
+								</header>
+                                <!--
+								    <a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
+                                -->
+                                <p><h2></h2></p>
+                <p><iframe id="soundee_player" frameborder="0" src="https://soundee.com/player/1426?iframe=1" style="width:100%;height:600px;max-width:980px;" allow="autoplay"></iframe></p>
+                <p>Music is an incredible platform that allows artist to create something that people can connect to. We see if all the time with our favourite artists and we watch them grow from one off youtube song, through to the first EP and then to shows.</p>
+
+                <p>I sell exclusive and non-exclusive licenses to my instrumentals in order to make it more accessible to you. It’s a tough grind so feel free to get in touch if there’s a different way that I can help you out. Music is a people game.</p>
+
+                <p>My first love is hip hop so you can hear that my sound has a more modern hip hop, R’n’B and pop feel. It’s all structured in a way that your listeners can follow your songs and want to hear more from you.</p>
+                
+                <p><h2>Remixes and flips</h2></p>
+                <p>
+                    <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/6068226&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+                            
+                    <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/honest2davis" title="Davis" target="_blank" style="color: #cccccc; text-decoration: none;">Davis</a></div>
+                </p>
+        
+                <p><h2>The Blog</h2></p>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                 <article>
+  									<header>
+  										<h2><a href="#">Sponsored</a></h2>
+  									</header>
+
+  								</article>
+                  {% endif %}
+                {% endfor %}
+
+							</section>
+
+						<!-- Footer -->
+							<footer>
+                <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Blog</a></li>
+                </ul>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
