@@ -4,7 +4,7 @@ bio:                Melbourne based Hip Hop and RnB Producer
 description:        I make beats for artists to help share their story
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.honest2davis.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
