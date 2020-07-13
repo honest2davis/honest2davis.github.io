@@ -1,0 +1,48 @@
+I"<h2 id="1-its-a-saturated-market-no-one-will-listen-to-your-music">1. It’s a saturated market, no one will listen to your music</h2>
+
+<p>I’ve been building my experience in the music industry for a number of years and I help artists and creators by selling them <a href="https://soundee.com/honest2davis">instrumentals</a>. How is this possible? Because the market is getting bigger. In 2015, the IFPI measured the music market to have received $15 billion USD in revenue. Fast forward to 2019 and it’s valued at $19 billion USD <strong><a href="https://www.ifpi.org/media/downloads/GMR2019-en.pdf">source</a></strong>. This growth makes it <em>feel</em> like it’s a saturated market but in actual fact, it’s just that artists can reach audiences a lot easier.</p>
+
+<blockquote>
+  <p><strong>When it comes to a saturated market, think of your music as a coffee shop. It’s a saturated market for sure but the different experiences, processes and accessibility of your <em>coffee shop</em> gives you as an artist a chance to reach an audience.</strong></p>
+</blockquote>
+
+<h2 id="2-no-one-will-buy-your-music">2. No one will buy your music</h2>
+
+<p>This is technically <em>correct</em> because physical sales of music has been on the decline since 2005. We have technology to make it easier to listen to music. Technology has allowed music to become available anywhere at any time on any device. If massive companies like Apple, Google and Amazon have their own streaming platforms - it validates that they see a financial opportunity through this model as opposed to physical sales.</p>
+
+<blockquote>
+  <p><strong>Whilst there’s an increasingly low chance of people buying your music, there’s a higher chance of people buying your <em>“experience”</em>.</strong></p>
+</blockquote>
+
+<p>The <em>experience</em> changes the approach with how we can monetise our music journeys. The old way was to buy some studio time, record and then spend money on distribution and then more money marketing. The new way (if it’s independant or major/minor label placements) is continuing to grow. Technology is making it easier for artists and audiences to interact together to sell different experiences. Merchandise, affiliate schemes, collaborations - all different ways to create an experience that goes beyond music that entices audiences to spend money on.</p>
+
+<section>
+
+    ![GitHub Logo](/images/logo.png)
+</section>
+
+<p>![Getting Started] (/images/promotion/pic01.png)</p>
+
+<h2 id="3-its-not-a-stable-career-path">3. It’s not a stable career path</h2>
+
+<p>I’m in Australia - one of the most stable careers you could’ve had was aviation. Covid-19 has decimated this industry and made people question the deifnition of ‘stable’. In 2008, Kevin Kelly wrote an <a href="https://kk.org/thetechnium/1000-true-fans/">essay</a> (before they called them ‘blogs’) on a theory that if you could get 1,000 fans on average to spend $100 on your musicianship in a year, that’s $100,000 you could make as a salary.</p>
+
+<p>The way that you would get $100 per fan has a few models of how you can make this happen and <a href="https://indiebandalliance.com/">Indie Balance</a> have written more around this too. I have the ebook if you’d like it which goes through three simple steps to earn as a musician full time. Just send me your email so that I can send you the book.</p>
+
+<section>
+    <form method="POST" action="https://api.slapform.com/beats@honest2davis.com">
+      <div class="field">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" />
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="email" name="slap_replyto" id="email" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
+      </div>
+      <ul class="actions">
+        <li><input type="submit" value="Get the e-book" /></li>
+      </ul>
+      <input type="hidden" name="slap_redirect" value="http://localhost:4000/thank-you" /> <!-- slap_redirect allows you to set a custom redirect/thank you page -->
+    </form>
+  </section>
+:ET
