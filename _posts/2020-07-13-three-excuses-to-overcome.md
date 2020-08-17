@@ -4,7 +4,7 @@ title:  "Three excuses to overcome"
 date:   2020-07-13
 comments: true
 excerpt: "As you get into making and releasing music, you'll come up against these common excuses. The reason why they're common because there isn’t much knowledge around the business mechanics of music. "
-image: "/images/blog/billboard.jpeg"
+image: "/images/blog/three-excuses-to-overcome.png"
 ---
 
 ## 1. It's a saturated market, no one will listen to your music

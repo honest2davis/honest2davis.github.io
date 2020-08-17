@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-12T20:19:33+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">honest2davis</title><subtitle>I make beats for artists to help share their story</subtitle><entry><title type="html">Three excuses to overcome</title><link href="http://localhost:4000/blog/three-excuses-to-overcome/" rel="alternate" type="text/html" title="Three excuses to overcome" /><published>2020-07-13T00:00:00+10:00</published><updated>2020-07-13T00:00:00+10:00</updated><id>http://localhost:4000/blog/three-excuses-to-overcome</id><content type="html" xml:base="http://localhost:4000/blog/three-excuses-to-overcome/">&lt;h2 id=&quot;1-its-a-saturated-market-no-one-will-listen-to-your-music&quot;&gt;1. It’s a saturated market, no one will listen to your music&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-17T14:37:57+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">honest2davis</title><subtitle>I make beats for artists to help share their story</subtitle><entry><title type="html">Three Tips on Buying Beats</title><link href="http://localhost:4000/blog/get-started/" rel="alternate" type="text/html" title="Three Tips on Buying Beats" /><published>2020-08-14T00:00:00+10:00</published><updated>2020-08-14T00:00:00+10:00</updated><id>http://localhost:4000/blog/get-started</id><content type="html" xml:base="http://localhost:4000/blog/get-started/">&lt;!-- 
+&lt;p&gt;
+    &lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/promotion/getting-started.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+    &quot;Buying beats is an exciting step in your career as an artist. It's more than just a matter of 'buying beats', it represents that you're taking your craft serious and that you're evolving. Given you're looking to spend your hard earned cash, I wanted to share some information with to help you when you buy beats. There's a lot of 'noise' in this space so hopefully this helps.&quot;
+&lt;/p&gt; 
+--&gt;
+
+&lt;h2 id=&quot;1-mp3s-for-beginners-and-wavs-for-advanced&quot;&gt;1. MP3’s for beginners and WAV’s for advanced.&lt;/h2&gt;
+
+&lt;p&gt;All of my beats follow a typical song structure of three verses and three hook sections. If you’re just starting out - I recommend getting the MP3 and letting the track guide you. If you want more control of the end product, advanced artists should look to get the WAV files which also include all the track outs. If it helps, you can &lt;strong&gt;buy 1 and get 2 free&lt;/strong&gt;. &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;check-out-the-beat-store-below&quot;&gt;Check out the beat store below:&lt;/h3&gt;
+
+&lt;iframe id=&quot;soundee_player&quot; frameborder=&quot;0&quot; src=&quot;https://soundee.com/player/1426?iframe=1&quot; style=&quot;width:100%;height:600px;max-width:980px;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;2-buy-what-you-can-afford&quot;&gt;2. Buy what you can afford&lt;/h2&gt;
+
+&lt;p&gt;We’re in a pandemic which is creating uncertain times. Prioritise your health before buying beats. I’ve included bulk deals to help make it easier on the wallet. If you’re feeling a beat and it’s out of the price range, free to get in contact to make an offer on any beat you have your eye on.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-dont-be-afraid-to-ask&quot;&gt;3. Don’t be afraid to ask!&lt;/h2&gt;
+
+&lt;p&gt;If you’re not ready to buy something right now, &lt;strong&gt;pop your email down below&lt;/strong&gt; so I can give you a five pack of royalty free beats! Hope that can help the journey. Happy to help you where I can. I’ve also got more information on the &lt;a href=&quot;/blog&quot;&gt;blog&lt;/a&gt; that have loads of articles to help you with your music journey.&lt;/p&gt;
+
+&lt;section&gt;
+    &lt;form method=&quot;POST&quot; action=&quot;https://api.slapform.com/beats@honest2davis.com&quot;&gt;
+      &lt;div class=&quot;field&quot;&gt;
+        &lt;label for=&quot;name&quot;&gt;Name&lt;/label&gt;
+        &lt;input type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;field&quot;&gt;
+        &lt;label for=&quot;email&quot;&gt;Email&lt;/label&gt;
+        &lt;input type=&quot;email&quot; name=&quot;slap_replyto&quot; id=&quot;email&quot; /&gt; &lt;!-- slap_replyto will set the reply-to as the submitter's email! --&gt;
+      &lt;/div&gt;
+      &lt;ul class=&quot;actions&quot;&gt;
+        &lt;li&gt;&lt;input type=&quot;submit&quot; value=&quot;Get Free Beat&quot; /&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;input type=&quot;hidden&quot; name=&quot;slap_redirect&quot; value=&quot;http://localhost:4000/thank-you&quot; /&gt; &lt;!-- slap_redirect allows you to set a custom redirect/thank you page --&gt;
+    &lt;/form&gt;
+  &lt;/section&gt;</content><author><name>honest2davis</name></author><summary type="html">Buying beats is an exciting step in your career as an artist. It's more than just a matter of 'buying beats', it represents that you're taking your craft serious and that you're evolving. Given you're looking to spend your hard earned cash, I wanted to share some information with to help you when you buy beats. There's a lot of 'noise' in this space so hopefully this helps.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/promotion/getting-started.png" /><media:content medium="image" url="http://localhost:4000/images/promotion/getting-started.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Three excuses to overcome</title><link href="http://localhost:4000/blog/three-excuses-to-overcome/" rel="alternate" type="text/html" title="Three excuses to overcome" /><published>2020-07-13T00:00:00+10:00</published><updated>2020-07-13T00:00:00+10:00</updated><id>http://localhost:4000/blog/three-excuses-to-overcome</id><content type="html" xml:base="http://localhost:4000/blog/three-excuses-to-overcome/">&lt;h2 id=&quot;1-its-a-saturated-market-no-one-will-listen-to-your-music&quot;&gt;1. It’s a saturated market, no one will listen to your music&lt;/h2&gt;
 
 &lt;p&gt;I’ve been building my experience in the music industry for a number of years and I help artists and creators by selling them &lt;strong&gt;&lt;a href=&quot;https://soundee.com/honest2davis&quot;&gt;instrumentals&lt;/a&gt;&lt;/strong&gt;. How is this possible? Because the market is getting bigger. In 2015, the IFPI measured the music market to have received $15 billion USD in revenue. Fast forward to 2019 and it’s valued at $19 billion USD &lt;strong&gt;&lt;a href=&quot;https://www.ifpi.org/media/downloads/GMR2019-en.pdf&quot;&gt;source&lt;/a&gt;&lt;/strong&gt;. This growth makes it &lt;em&gt;feel&lt;/em&gt; like it’s a saturated market but in actual fact, it’s just that artists can reach audiences a lot easier.&lt;/p&gt;
 
@@ -37,7 +76,7 @@
       &lt;/ul&gt;
       &lt;input type=&quot;hidden&quot; name=&quot;slap_redirect&quot; value=&quot;http://localhost:4000/thank-you&quot; /&gt; &lt;!-- slap_redirect allows you to set a custom redirect/thank you page --&gt;
     &lt;/form&gt;
-  &lt;/section&gt;</content><author><name>honest2davis</name></author><summary type="html">As you get into making and releasing music, you'll come up against these common excuses. The reason why they're common because there isn’t much knowledge around the business mechanics of music.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/blog/billboard.jpeg" /><media:content medium="image" url="http://localhost:4000/images/blog/billboard.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Rap Fundamentals Pt 1</title><link href="http://localhost:4000/blog/rap-fundamentals-pt-1/" rel="alternate" type="text/html" title="Rap Fundamentals Pt 1" /><published>2020-06-01T00:00:00+10:00</published><updated>2020-06-01T00:00:00+10:00</updated><id>http://localhost:4000/blog/rap-fundamentals-pt-1</id><content type="html" xml:base="http://localhost:4000/blog/rap-fundamentals-pt-1/">&lt;h2 id=&quot;whats-wrong-with-my-raps&quot;&gt;What’s wrong with my raps?&lt;/h2&gt;
+  &lt;/section&gt;</content><author><name>honest2davis</name></author><summary type="html">As you get into making and releasing music, you'll come up against these common excuses. The reason why they're common because there isn’t much knowledge around the business mechanics of music.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/blog/three-excuses-to-overcome.png" /><media:content medium="image" url="http://localhost:4000/images/blog/three-excuses-to-overcome.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Rap Fundamentals Pt 1</title><link href="http://localhost:4000/blog/rap-fundamentals-pt-1/" rel="alternate" type="text/html" title="Rap Fundamentals Pt 1" /><published>2020-06-01T00:00:00+10:00</published><updated>2020-06-01T00:00:00+10:00</updated><id>http://localhost:4000/blog/rap-fundamentals-pt-1</id><content type="html" xml:base="http://localhost:4000/blog/rap-fundamentals-pt-1/">&lt;h2 id=&quot;whats-wrong-with-my-raps&quot;&gt;What’s wrong with my raps?&lt;/h2&gt;
 
 &lt;p&gt;You start as a fan of the craft with access to a whole bunch of incredible rappers slaying the mic both past and present. Vivid imagery of MJ on the stage when Drake’s referring to the black leather glove no sequins. The repetitive I GOT I GOT I GOT before the beat drops to Kendrick Lamar’s track loyalty. Even that little adlib at the beginning of The Box by Roddy Rich just sits in the track so nicely.&lt;/p&gt;
 

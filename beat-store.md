@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Thank you for your correspondence
+title: Beat Store - honest2davis
 ---
-## Check out the latest beats
+## Beats store
+
+<p>New music released weekly. There's a wide range of hip hop and r'n'b beats available. I've helped hundreds of artists here in Australia and I'm hoping these beats are able to help you with you sound. Most of the songs are structured with an intro, hook, verse, hook, verse, hook (no outro)</p>
+
+### Check out the beat store
 
 <iframe id="soundee_player" frameborder="0" src="https://soundee.com/player/1426?iframe=1" style="width:100%;height:600px;max-width:980px;" allow="autoplay"></iframe>
-<br>
-### New beats are uploaded weekly! If you'd like to keep updated, feel free to sign up below.
+
+<p>If you're looking for free beats, send me your <b>email</b> in the form below so I can send you something</p>
 
 <section>
     <form method="POST" action="https://api.slapform.com/{{site.email}}">
@@ -19,7 +23,7 @@ title: Thank you for your correspondence
         <input type="email" name="slap_replyto" id="email" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
       </div>
       <ul class="actions">
-        <li><input type="submit" value="Sign Up" /></li>
+        <li><input type="submit" value="Get Free Beats" /></li>
       </ul>
       <input type="hidden" name="slap_redirect" value="{{site.url}}{{site.slapform_thankyou_page}}" /> <!-- slap_redirect allows you to set a custom redirect/thank you page -->
     </form>
