@@ -12,7 +12,7 @@ A number of my customers recommended I take time to address some common concerns
 Absolutely! I accept all major Credit Cards and Paypal as well. Using Stripe and Paypal to accept payments adds an extra level of security. If you're really having second thoughts after you've purchased a beat, **get in touch within 30 days** for a refund, no questions asked!
 
 ### Do you have any deals or anything?
-Definitely, COVID is playing games with everyone so, I'm currently running a buy 1, get 1 beat free. If that's still not enough (and you've taken time to read the FAQ), use **honest2davis** at the checkout to get a further 15% off this bulk deal. 
+Definitely, COVID is playing games with everyone so, I'm currently running a buy 1, get 2 beat free. If that's still not enough (and you've taken time to read the FAQ), use **honest2davis** at the checkout to get a further 15% off this bulk deal. 
 
 ### But for real do you have any other deals?
 Look I can hook you up with a five pack of beats if you really need it - simply visit [free.honest2davis.com](http://free.honest2davis.com/) and I'll get you a link to a folder with some. If the discount code and the free beats can't quite help, feel free to get in touch via the form below.
