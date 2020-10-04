@@ -1,0 +1,34 @@
+I"&<h2 id="beats-store">Beats store</h2>
+
+<p>Thanks for checking out the beat store. So I can help you, I’m doing a <strong>Buy 1 Get 1 Free</strong> promotion, the discount will be applied at the checkout! The discount will be applied when you add the beats into the shopping cart. There’s a wide range of hip hop and r’n’b beats to chose from and I’ve helped hundreds of artists so I’m hoping that I can help you out as well. If you have questions around the way things work and our money back guarantee, visit our <a href="/faq"><strong>FAQ Section</strong></a></p>
+
+<h3 id="check-out-the-beat-store-below">Check out the beat store below</h3>
+
+<iframe id="soundee_player" frameborder="0" src="https://soundee.com/player/1426?iframe=1" style="width:100%;height:600px;max-width:980px;" allow="autoplay"></iframe>
+
+<p><br /></p>
+
+<h3 id="beat-licensing-info-below">Beat licensing info below</h3>
+<p><br /></p>
+
+<p><img src="http://localhost:4000/images/pic09.png" alt="FAQ" /></p>
+
+<p>If you're looking for free beats, send me your <b>email</b> in the form below so I can send you something</p>
+
+<section>
+    <form method="POST" action="https://api.slapform.com/beats@honest2davis.com">
+      <div class="field">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" />
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="email" name="slap_replyto" id="email" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
+      </div>
+      <ul class="actions">
+        <li><input type="submit" value="Get Free Beats" /></li>
+      </ul>
+      <input type="hidden" name="slap_redirect" value="http://localhost:4000/thank-you" /> <!-- slap_redirect allows you to set a custom redirect/thank you page -->
+    </form>
+</section>
+:ET
