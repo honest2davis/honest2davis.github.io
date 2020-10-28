@@ -58,6 +58,7 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-feed
 
 paginate: 6
 paginate_path: "/blog/page:num/"
